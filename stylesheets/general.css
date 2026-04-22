@@ -1,0 +1,20 @@
+html {
+    background-color: rgba(154, 205, 50, 0.5); /*YellowGreen*/
+    /*YellowGreen on at full opacity was a bit too intense for the background - opacity reduced by half to resolve*/
+
+    font-family: macondo;
+    color: purple;
+}
+
+/* ------------------------------ header ------------------------------ */
+h1 {
+    font-family: "Caveat";
+    font-weight: bold;
+    margin: 0;
+    color: mediumorchid;
+}
+
+/* --------- footer cover part of content in main - Fix Added ---------- */
+main {
+    margin-bottom: 3.75rem;
+}
